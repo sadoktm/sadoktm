@@ -16,7 +16,7 @@ I'm Henrik, focused primarily on **cybersecurity** with a strong interest in off
 ## 🧰 Tech Stack
 
 **💬 Languages**
-Python · C · SQL
+Python · C · SQL · LUA
 
 **🔓 Security tools**
 Burp Suite · Wireshark · Nmap · Metasploit · sqlmap · hashcat · John the Ripper
