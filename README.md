@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Henrik Fimland-Karlsen
 
-<!--
-**sadoktm/sadoktm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ Cybersecurity enthusiast · 💻 backend developer · 🎯 aspiring pentester
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Henrik, focused primarily on **cybersecurity** with a strong interest in offensive security and penetration testing. Alongside that I work on backend development, SQL-based databases, and dabble in data and machine learning.
+
+## 🔑 Core Areas
+
+- 🛡️ **Cybersecurity** — main focus: penetration testing, network analysis, password cracking
+- ⚙️ **Backend development**
+- 🗄️ **SQL / relational databases**
+- 🤖 **Data & ML** — exploring
+
+## 🧰 Tech Stack
+
+**💬 Languages**
+Python · C · SQL
+
+**🔓 Security tools**
+Burp Suite · Wireshark · Nmap · Metasploit · sqlmap · hashcat · John the Ripper
+
+**🗃️ Databases**
+PostgreSQL
+
+**🖥️ Platforms**
+Linux · Kali Linux · macOS · Windows
+
+## 📫 Where to Find Me
+
+- 📧 Email: kodasbusiness@gmail.com
