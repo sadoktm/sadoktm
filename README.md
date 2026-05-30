@@ -29,4 +29,5 @@ Linux · Kali Linux · macOS · Windows
 
 ## 📫 Where to Find Me
 
-- 📧 Email: kodasbusiness@gmail.com
+- 📧 Email: kodasbusiness@gmail.com 
+- 💼 LinkedIn: https://www.linkedin.com/in/henrikfimlandkarlsen/
