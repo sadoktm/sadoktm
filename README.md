@@ -4,11 +4,11 @@
 
 ## 🧑‍💻 About Me
 
-I'm Henrik, focused primarily on **cybersecurity** with a strong interest in offensive security and penetration testing. Alongside that I work on backend development, SQL-based databases, and dabble in data and machine learning.
+I'm Henrik, focused primarily on **cybersecurity** with a strong interest in offensive security ,penetration testing and MDR. Alongside that I work on backend development, SQL-based databases, and dabble in data and machine learning.
 
 ## 🔑 Core Areas
 
-- 🛡️ **Cybersecurity** — main focus: penetration testing, network analysis, password cracking
+- 🛡️ **Cybersecurity** — main focus: penetration testing, network analysis, password cracking, Endpoint detection, Incident Response
 - ⚙️ **Backend development**
 - 🗄️ **SQL / relational databases**
 - 🤖 **Data & ML** — exploring
