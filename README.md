@@ -1,6 +1,6 @@
 # 👋 Henrik Fimland-Karlsen
 
-🛡️ Cybersecurity enthusiast · 💻 backend developer · 🎯 aspiring pentester
+🛡️ Cybersecurity enthusiast · 💻 backend developer · 🎯 aspiring Cybersecurity specialist
 
 ## 🧑‍💻 About Me
 
