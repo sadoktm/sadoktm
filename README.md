@@ -65,12 +65,6 @@ Cybersecurity-focused developer specializing in **offensive security, penetratio
 ### [C-Exam](https://github.com/sadoktm/C-Exam)
 C programming coursework and exam solutions — demonstrating core systems-level programming, memory management, and problem-solving in C.
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadoktm&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadoktm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
 
 ## 📫 Get in Touch
 
